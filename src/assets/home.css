@@ -1,0 +1,21 @@
+.index {
+  margin-top: 20px;
+
+  color: blue;
+}
+.featur {
+  margin-top: 10px;
+  background-color: greenyellow;
+}
+
+img {
+  max-width: 200px;
+  padding-left: 20px;
+}
+
+.p {
+  padding-left: 15px;
+}
+.j {
+  padding-left: 180px;
+}
